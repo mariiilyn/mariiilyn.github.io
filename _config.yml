@@ -16,10 +16,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+#author: mariiilyn
+#image: /thumbnail-jumbo.png
+#twitter:
+#  username: mariiilyn
 
 plugins:
   - jekyll-target-blank
