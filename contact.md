@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: Connect with me!
 ref: contact
 order: 1
 ---
 
-Connect with me!
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})
