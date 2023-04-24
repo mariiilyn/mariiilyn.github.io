@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: Wire Together, Fire Together
+tagline: Neurons that fire together wire together.
 permalink: /about.html
 ref: about
 order: 0
