@@ -6,9 +6,6 @@ permalink: /now.html
 ref: now
 order: 2
 ---
-
-{% include instagram.html id="https://www.instagram.com/p/Cpe9meOjRZJ/" %}
-<script async src="//www.instagram.com/embed.js"></script>
-
+To be updated.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
